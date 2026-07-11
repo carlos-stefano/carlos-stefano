@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I am Carlos Stefano, a Physicist that transitioned from Academia to Industry.
+
+After spending several years during my MSc. and PhD developing data processing pipelines for neurophysiological signals, as well as applying Machine Learning techniques for pattern recognition in such signals - specially Electroencephalography -, I started working in Industry as a Data professional.
+
+I have worked both as a Data Analyst and a Data Science. 
+
+Nowadays, I continue to apply my expertise to help companies drive value from Data and AI. I am also a MBA professor and mentor for technical professionals looking for developing their skills in Data.
+
 <!--
 **carlos-stefano/carlos-stefano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
