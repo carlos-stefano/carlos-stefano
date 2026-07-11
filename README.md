@@ -6,7 +6,7 @@ After spending several years during my MSc. and PhD developing data processing p
 
 I have worked both as a Data Analyst and a Data Science. 
 
-Nowadays, I continue to apply my expertise to help companies drive value from Data and AI. I am also a MBA professor and mentor for technical professionals looking for developing their skills in Data.
+Nowadays, I continue to apply my expertise to help companies drive value from Data and AI. I am also a MBA professor and Mentor for technical professionals looking to develop their skills in Data.
 
 <!--
 **carlos-stefano/carlos-stefano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
